@@ -1,6 +1,6 @@
-An implementation of 2-server Oblivious Message Retrieval (OMR).
+An implementation of HomeRun, which is a 2-server Oblivious Message Retrieval System.
 
-Code based on the implementation of 2-Party Circuit-PSI available at \[[PETS22](https://github.com/shahakash28/2PC-Circuit-PSI)\] and volePSI \[[EC21](https://github.com/Visa-Research/volepsi)\].
+Code based on the implementation of 2-Party Circuit-PSI available at \[[PETS22](https://github.com/shahakash28/2PC-Circuit-PSI)\], volePSI \[[EC21](https://github.com/Visa-Research/volepsi)\], and DPF-PIR \[EuroS&P19](https://github.com/dkales/dpf-cpp)\]
 
 ## Required packages:
  - g++ (version >=8)
